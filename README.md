@@ -1,3 +1,3 @@
 # Hello World!
 
-Write a function called 'hello' that takes no arguments and outputs "Hello World!"
+Write a function inside a main.py file called 'hello' that takes no arguments and returns "hello world!"
